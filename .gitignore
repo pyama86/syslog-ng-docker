@@ -1,0 +1,5 @@
+cert/*pem
+cert/*crt
+cert/*csr
+cert/ca.srl
+cert/extfile.cnf
